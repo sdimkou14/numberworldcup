@@ -1,0 +1,9 @@
+{
+  "name": "Maths World Cup",
+  "short_name": "Maths Cup",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#0b6b3a",
+  "theme_color": "#0b6b3a",
+  "orientation": "landscape"
+}
